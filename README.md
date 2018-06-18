@@ -12,7 +12,7 @@ Wenhui Wu, Yuheng Jia, Sam Kwong, and Junhui Hou, "Pairwise Constraint Propagati
 **Contacts**
 For questions about the code or the paper, feel free to contact me by wenhuiwu3-c@my.cityu.edu.hk.
 
-Bibtex
+**Bibtex**
 
 If this code is helpfull to your research, please consider citing our paper by:
 
